@@ -1,0 +1,62 @@
+@back Metro03
+
+@char Panchito.Serio
+Panchito: *Se sube y se sienta, a pesar de no ver a nadie no se siente extranado, por lo que procede a sentarse y empieza reflexionar sobre su vida*
+
+@char Panchito.Serio
+Panchito: Que dolor de cabeza...
+
+@char Panchito.Triste
+Panchito: Estoy tan cansado de esto, pero que mas queda...
+
+@char Panchito.Serio
+Panchito: Solo quiero llegar a casa...
+
+@char Panchito.Molesto
+Panchito: Pero para que? Que hay llegando a casa? Mas que un sucio sofa?
+
+@char Panchito.Triste
+Panchito: Sabes que? Solo estas cansado...llevas todo el dia con esto, es hora de descansar y pasar a un nuevo dia.
+
+@char Panchito.Molesto
+Panchito: Para que? Realmente cambiara algo manana, de verdad no te puedes concentrar bien en una sola cosa? Algo pasa contigo y muy bien sabes bien que es. O realmente lo sabes?
+
+@char Panchito.Triste
+Panchito: No creo saber, ya estoy harto de no poder terminar nada de lo que comienzo, es tan desesperante ver como las oportunidades se van enfrente de mis ojos y no tener la voluntad de seguirlas, no se en que punto me empece a sentir asi o en que punto acepte ser asi, solo se que estoy harto de mi.
+
+@char Panchito.Molesto
+Panchito: Como puede ser tan sencillo para los demas seguir asi?
+
+@char Panchito.Triste
+Panchito: Como si tuvieran un camino predefinido, amaria no tener que preocuparme por todo y solo por una vez lo que los demas digan, ya no quiero ser yo quien tenga que tomar responsabilidades, pero ya estamos en el fondo, no? Solo queda subir o quedarnos aqui.
+
+
+@back Metro04
+
+@char Muerte.Feliz
+???: *Sube al metro*
+
+@char Panchito.Serio
+Panchito: Quien es ella? Por que alguien asi subiria a esta hora?
+
+@char Muerte.Disgusto
+???: *Inspecciona el vagon vacio y se sienta del lado contrario*
+
+@char Panchito.Serio
+Panchito: Da igual, con que no se meta conmigo yo estoy bien, aunque ahora que lo pienso esta muy vacia la estacion, es hora pico y no mas que una sola persona? Algo anda mal por aqui.
+
+@char Panchito.Molesto
+Panchito: Habran anunciado que se cierra el fin de la linea? Pero si la acaban de abrir!
+
+@char Panchito.Molesto
+Panchito: No me sorprenderia que este pais vaya de mal en peor, ahi van nuestros impuestos...
+
+@char Panchito.Serio
+Panchito: Pero si es eso porque siguio el metro como si nada?
+
+@char Panchito.Molesto
+Panchito: De que me  quejo?, no puedo solo disfrutar el hecho que por una vez en mi vida puedo ir tranquilo a mi casa?
+
+
+
+@stop
