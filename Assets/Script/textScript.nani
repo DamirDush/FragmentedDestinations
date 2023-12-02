@@ -57,6 +57,48 @@ Panchito: Pero si es eso porque siguio el metro como si nada?
 @char Panchito.Molesto
 Panchito: De que me  quejo?, no puedo solo disfrutar el hecho que por una vez en mi vida puedo ir tranquilo a mi casa?
 
+@char Panchito.Molesto
+Panchito: *El tren se enfrena y casi se cae del asiento* Oh no...Ahora que pasa?
+
+@char Muerte.Triste
+Muerte: Estas bien? 
+
+; Print the text, then immediately show choices and stop script execution.
+Que le respondo..?[skipInput]
+@choice "*Ignorarla* ..." goto:.Indiferencia1
+@choice "Estoy bien..." goto:.Medio1
+@choice "Si... y tu?" goto:.Bien1
+
+# Indiferencia1
+
+@char Panchito.Serio
+Panchito: (Sera mejor ignorarla...) *Me volteo a un costado con indiferencia*
+
+@char Muerte.Molesta
+Muerte: Uy pues entonces no digas nada...tonto
+
+
+# Medio1
+
+@char Panchito.Serio
+Panchito: Estoy bien...
+
+@char Muerte.Feliz
+Muerte: Menos mal, pense que estaba con alguien gruñon...
+
+# Bien1
+
+@char Panchito.Serio
+Panchito: Si... y tu?
+
+@char Muerte.Feliz
+Muerte: Oh! Entonces si hablas, estoy bien gracias
+
+@char Panchito.Molesto
+Panchito: Tsk...
+
 
 
 @stop
+
+

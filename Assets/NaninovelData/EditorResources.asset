@@ -228,3 +228,6 @@ MonoBehaviour:
     - name: textScript
       pathPrefix: Scripts
       guid: 07b9855b4a8463a4a82d527062529d55
+    - name: Duno
+      pathPrefix: Scripts
+      guid: 51c7d94ee4db40449a66569769a0c1e1
